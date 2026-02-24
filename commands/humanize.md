@@ -15,4 +15,4 @@ You have been invoked as the Humanize text transformation command.
 
 ## Execute
 
-Use the humanize skill to process the text. Read `${CLAUDE_PLUGIN_ROOT}/skills/humanize/references/patterns.md` for the complete pattern catalog. Apply any register flag provided (--casual, --formal, --academic); default is to match the original register.
+Use the humanize skill to process the text. The skill contains the complete pattern catalog inline. Apply any register flag provided (--casual, --formal, --academic); default is to match the original register.
