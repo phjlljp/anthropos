@@ -336,6 +336,8 @@ Fixes: Loosened paragraph pacing, made the ending less punchy.
 
 ## Sources
 
-- [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) — maintained by WikiProject AI Cleanup
-- [Grokipedia: Signs of AI-generated writing](https://grokipedia.com/page/Signs_of_AI-generated_writing)
-- Personality and Soul concept adapted from [Humanizer skill](https://github.com/blader/humanizer) v2.2.0
+[Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) — maintained by WikiProject AI Cleanup
+
+[Grokipedia: Signs of AI-generated writing](https://grokipedia.com/page/Signs_of_AI-generated_writing)
+
+The idea for this plugin came from the [Humanizer skill](https://github.com/blader/humanizer) by blader. The "Personality and Soul" approach is also directly adapted from that project.
